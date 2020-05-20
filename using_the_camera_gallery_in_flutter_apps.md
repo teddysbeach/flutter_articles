@@ -10,5 +10,5 @@ Using the Camera & Gallery in Flutter Apps
 이게 기본을 땔 수 있게 할 겁니다. 만약 더 나아가고 싶다면 안말려요! 뛰어드세요!
 
 
-우리가 만들 애플리케이션은 이렇게 생겼습니다.
-![https://miro.medium.com/max/1400/1*BVd5E8Bp95_1vqahKwJOEA.jpeg]
+우리가 만들 애플리케이션은 이렇게 생겼습니다.  
+![image]('https://miro.medium.com/max/1400/1*BVd5E8Bp95_1vqahKwJOEA.jpeg')
