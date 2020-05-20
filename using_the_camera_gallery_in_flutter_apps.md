@@ -11,4 +11,4 @@ Using the Camera & Gallery in Flutter Apps
 
 
 우리가 만들 애플리케이션은 이렇게 생겼습니다.  
-!(https://miro.medium.com/max/1400/1*BVd5E8Bp95_1vqahKwJOEA.jpeg)
+[![image](https://miro.medium.com/max/1400/1*BVd5E8Bp95_1vqahKwJOEA.jpeg)]
